@@ -1,0 +1,4 @@
+name = "StructuralNetworks"
+uuid = "9a03de1d-183f-42fb-8422-02bbba98be30"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
